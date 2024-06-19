@@ -1,4 +1,4 @@
-# task1-affordmed
+# task1
  Screenshots
  
 ![Screenshot (1130)](https://github.com/harshal-0012/task1-affordmed/assets/162455686/b9d77c81-d7d2-42a5-b260-2dc6d90766bb)
